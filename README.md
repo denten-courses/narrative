@@ -32,20 +32,12 @@ denten.github.io/ | dt2406@ | 415.215.3315
 
 ## Course Description
 
-This graduate course offers an in-depth exploration of narrative theory, examining how stories
-are constructed, interpreted, and function across different genres, media, and cultural
-contexts. Students will engage with both classical and contemporary theories of narrative,
-borrowing from research in literary studies, psychology, anthropology, sociology, film and game
-studies.
-
-The course will cover essential concepts such as plot, character, temporality,
-, and point of view, while also addressing the role of narrative in shaping
-personal and collective identities. Through close readings, theoretical analysis, and practical
-application, students will critically analyze the power of narrative to reflect, challenge,
-and transform cultural, social, and political realities. This course is ideal for students
-interested in literary studies, media studies, and other fields where storytelling plays a
-central role.
-
+This graduate course offers an in-depth exploration of contemporary narrative theory, examining
+how stories function across different genres, media, and cultural contexts. Students should
+expect significant engagement with scholarship on narrative, borrowing from research in
+literary studies, psychology, anthropology, sociology, philosophy, film and game studies.
+Topics covered include story, plot, time, space, agency, event, action, character, and agency,
+while also addressing the role of narrative in shaping personal and collective identities.
 
 ## Course Requirements & Grading
 

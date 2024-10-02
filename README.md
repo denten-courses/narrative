@@ -68,12 +68,13 @@ such as ChatGPT and Copilot, in class.
 ### Week 1: Narrative
 
 - “An Introduction to the Analysis of Narrative” by Roland Barthes in *New Literary History* 6, 237–72.
-- Danto, Arthur C. “Narrative Sentences.” *History and Theory* 2, no. 2 (1962): 146–79.
-- "Bedtime With Shahrazad" in *The Literary Mind* (1996) by Mark Turner.
+- “The Value of Narrativity in the Representation of Reality” by Hayden White in *Critical Inquiry* 7:5-27.
+- Selections from *Mimesis: The Representation of Reality in Western Literature* by Erich
+Auerbach.
 
 ### Week 2: Plot
 
-- E.M. Forster *Aspects of the Novel* (1927)
+- E.M. Forster *Aspects of the Novel* (1927).
 - Selections from *The Structure of the Artistic Text* by Juri Lotman.
 - Selections from *Reading for the Plot: Design and Intention in Narrative* (1984) by Peter Brooks.
 
@@ -87,7 +88,9 @@ such as ChatGPT and Copilot, in class.
 
 - Selections from *The Language And Thought Of The Child* (1923) by Jean Piaget.
 - "Narrative Pre-Construction" by William Labov in *Narrative Inquiry* 16:37-45 (2006).
-- Selections from the *The Plot Genie Index* (1934) by Wycliffe A. Hill.
+- "Bedtime With Shahrazad" in *The Literary Mind* (1996) by Mark Turner.
+
+Explore: *The Plot Genie Index* (1934) by Wycliffe A. Hill.
 
 ### Week 5: Time
 
@@ -107,7 +110,9 @@ such as ChatGPT and Copilot, in class.
 
 - Selections from *The Syntax of Event Structure* (1995) by James Pustejovsky.
 - Selections from *Acts of Meaning* (1990) by Jerome Bruner.
-- "Literary Event Detection" in the *Proceedings of the ACL* (2019) by Matthew Sims, Jong Ho Park, and
+- Danto, Arthur C. “Narrative Sentences.” *History and Theory* 2, no. 2 (1962): 146–79.
+
+Explore: "Literary Event Detection" in the *Proceedings of the ACL* (2019) by Matthew Sims, Jong Ho Park, and
 David Bamman.
 
 ### Week 8: Setting
@@ -116,6 +121,7 @@ David Bamman.
 - Selections from *The Country and the City* (1973) by Raymond Williams.
 - Selections from *Frame Analysis* (1974) by Erving Goffman.
 
+Optionally: selections from *The Practice of Everyday Life* (1980) by Michel de Certeau.
 
 ### Week 9: Action
 
@@ -136,15 +142,7 @@ David Bamman.
 - “Agency in Illness Narratives” by Lore Arduser in *Narrative Inquiry* 24:1-27.
 - “Distributed Agency in the Novel” by Dennis Yi Tenen in *New Literary History* 54.1 (2022): 903-937.
 
-### Week 12: Story and Discourse
-
-- Selections from *Story Logic: Problems and Possibilities of Narrative* by David Herman.
-- Selections from *Story and Discourse: Narrative Structure in Fiction and
-Film* (1978) by Seymour Chatman.
-- "Story and Discourse in the Analysis of Narrative" by Jonathan Culler in *The Pursuit of
-Signs* (1981).
-
-### Week 13: Perspective
+### Week 12: Perspective
 
 - Selections from *The Interpretation of Cultures* (1973) by Clifford Geertz.
 - Selections from *The Predicament of Culture: Twentieth-Century Ethnography, Literature, and
@@ -152,7 +150,7 @@ Art* (1988) by James Clifford.
 - "Positioning between Structure and Performance" by Michael Bamberg in the *Journal of Narrative and
 Life History* 7 (1-4), 335-342
 
-### Week 14: Self, Identity
+### Week 13: Self, Identity
 
 - "Text and Personhood" by Karin Barber in *The Anthropology of Texts, Persons, and Publics*
 (2007).
@@ -165,10 +163,10 @@ and Alexandra Georgakopoulou.
 - Selections from *Modernity and Self-identity* (1991) by Anthony Giddens in *Text &
 Talk*.
 
-### Week 15: Mimesis, Diegesis
+### Week 14: Story and Discourse
 
-- “The Value of Narrativity in the Representation of Reality” by Hayden White in *Critical Inquiry* 7:5-27.
-- Selections from *Mimesis: The Representation of Reality in Western Literature* by Erich
-Auerbach.
-- Selections from *Game Design as Narrative Architecture* (2004) by Henry Jenkins.
-- Selections from *The Practice of Everyday Life* (1980) by Michel de Certeau.
+- Selections from *Story and Discourse: Narrative Structure in Fiction and Film* (1978) by Seymour Chatman.
+- "Story and Discourse in the Analysis of Narrative" by Jonathan Culler in *The Pursuit of
+Signs* (1981).
+- Selections from *Story Logic: Problems and Possibilities of Narrative* by David Herman.
+

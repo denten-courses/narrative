@@ -152,14 +152,7 @@ Art* (1988) by James Clifford.
 - "Positioning between Structure and Performance" by Michael Bamberg in the *Journal of Narrative and
 Life History* 7 (1-4), 335-342
 
-### Week 14: Self
-
-- Selections form *The Constitution of Selves* (1996) by Marya Schechtman.
-- Selections from The *Redemptive Self: Stories Americans Live By* (2006) by Dan P. McAdams.
-- Selections from *Modernity and Self-identity* (1991) by Anthony Giddens in *Text &
-Talk*.
-
-### Week 15: Identity
+### Week 14: Self, Identity
 
 - "Text and Personhood" by Karin Barber in *The Anthropology of Texts, Persons, and Publics*
 (2007).
@@ -167,8 +160,12 @@ Talk*.
 16:103-11.
 - "Small Stories as a New Perspective in Narrative and Identity Analysis" by Michael Bamberg
 and Alexandra Georgakopoulou.
+- Selections form *The Constitution of Selves* (1996) by Marya Schechtman.
+- Selections from The *Redemptive Self: Stories Americans Live By* (2006) by Dan P. McAdams.
+- Selections from *Modernity and Self-identity* (1991) by Anthony Giddens in *Text &
+Talk*.
 
-### Week 16: Mimesis, Diegesis
+### Week 15: Mimesis, Diegesis
 
 - “The Value of Narrativity in the Representation of Reality” by Hayden White in *Critical Inquiry* 7:5-27.
 - Selections from *Mimesis: The Representation of Reality in Western Literature* by Erich

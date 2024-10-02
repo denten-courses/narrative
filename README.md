@@ -133,7 +133,7 @@ Optionally: selections from *The Practice of Everyday Life* (1980) by Michel de 
 ### Week 10: Character
 
 - Selections from *Transparent Minds: Narrative Modes for Presenting Consciousness in Fiction* (1978) by Dorrit Cohn.
-- Selections from Character and Person (2014) by John Frow.
+- Selections from *Character and Person* (2014) by John Frow.
 - Selections from *Flat Protagonists: A Theory of Novel Character* (2016) by Marta Figlerowicz.
 
 ### Week 11: Agency
@@ -152,16 +152,10 @@ Life History* 7 (1-4), 335-342
 
 ### Week 13: Self, Identity
 
-- "Text and Personhood" by Karin Barber in *The Anthropology of Texts, Persons, and Publics*
-(2007).
-- “The Narrative Negotiation of Identity and Belonging” by Kraus Wolfgang *Narrative Inquiry*
-16:103-11.
 - "Small Stories as a New Perspective in Narrative and Identity Analysis" by Michael Bamberg
 and Alexandra Georgakopoulou.
-- Selections form *The Constitution of Selves* (1996) by Marya Schechtman.
+- Selections from *The Constitution of Selves* (1996) by Marya Schechtman.
 - Selections from The *Redemptive Self: Stories Americans Live By* (2006) by Dan P. McAdams.
-- Selections from *Modernity and Self-identity* (1991) by Anthony Giddens in *Text &
-Talk*.
 
 ### Week 14: Story and Discourse
 

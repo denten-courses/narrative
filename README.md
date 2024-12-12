@@ -79,13 +79,14 @@ such as ChatGPT and Copilot, in class.
 
 ### Week 2: Plot
 
+- Egan, Kieran. “[What Is a Plot?][201]” New Literary History, vol. 9, no. 3, 1978, pp. 455–73. 
 - "[Repetition, Repression, and Return: Great Expectations and the Study of Plot][202]" in *New Literary History*, Vol. 11, No. 3, On Narrative and Narratives: II (Spring, 1980), pp. 503-526 by Peter Brooks.
 - Genette, Gerard, and Jonathan Culler. "[Order][203]" in *Narrative Discourse: An Essay in Method*. Cornell University Press, 1983.
 
 
 [202]: https://www.jstor.org/stable/468941
 [203]: https://drive.google.com/file/d/1kP95mWYxToyQ6_1fFdLRJSg7vVAegv4P/view?usp=drive_link
-
+[201]: https://www.jstor.org/stable/468450
 
 ### Week 3: Narrator
 

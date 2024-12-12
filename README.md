@@ -68,21 +68,24 @@ such as ChatGPT and Copilot, in class.
 ### Week 1: Narrative
 
 - “[An Introduction to the Analysis of Narrative][101]” by Roland Barthes in *New Literary History* 6, 237–72.
-- “[The Value of Narrativity in the Representation of Reality][102]” by Hayden White in *Critical Inquiry* 7:5-27.
+- Cohn, Dorrit. "[Signposts of Fictionality: A Narratological Perspective][103]." *Poetics Today*, vol. 11, no. 4, 1990, pp. 775–804.
+- “[The Value of Narrativity in the Representation of Reality][104]” by Hayden White in *Critical Inquiry* 7:5-27.
+
 
 [101]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/468419?seq=1
-[102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/1343174
+[103]: https://www.jstor.org/stable/1773077
+[104]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/1343174
+
 
 ### Week 2: Plot
 
-- E.M. Forster *Aspects of the Novel* (1927).
-- Selections from *The Structure of the Artistic Text* by Juri Lotman.
-- "[Repetition, Repression, and Return: Great Expectations and the Study of Plot][202]"in *New Literary History*, Vol. 11, No. 3, On Narrative and Narratives: II (Spring, 1980), pp. 503-526by Peter Brooks.
+- "[Repetition, Repression, and Return: Great Expectations and the Study of Plot][202]" in *New Literary History*, Vol. 11, No. 3, On Narrative and Narratives: II (Spring, 1980), pp. 503-526 by Peter Brooks.
 - Genette, Gerard, and Jonathan Culler. "[Order][203]" in *Narrative Discourse: An Essay in Method*. Cornell University Press, 1983.
 
 
 [202]: https://www.jstor.org/stable/468941
 [203]: https://drive.google.com/file/d/1kP95mWYxToyQ6_1fFdLRJSg7vVAegv4P/view?usp=drive_link
+
 
 ### Week 3: Narrator
 

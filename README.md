@@ -67,10 +67,11 @@ such as ChatGPT and Copilot, in class.
 
 ### Week 1: Narrative
 
-- “An Introduction to the Analysis of Narrative” by Roland Barthes in *New Literary History* 6, 237–72.
-- “The Value of Narrativity in the Representation of Reality” by Hayden White in *Critical Inquiry* 7:5-27.
-- Selections from *Mimesis: The Representation of Reality in Western Literature* by Erich
-Auerbach.
+- “[An Introduction to the Analysis of Narrative][101]” by Roland Barthes in *New Literary History* 6, 237–72.
+- “[The Value of Narrativity in the Representation of Reality][102]” by Hayden White in *Critical Inquiry* 7:5-27.
+
+[101]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/468419?seq=1
+[102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/1343174
 
 ### Week 2: Plot
 

@@ -90,9 +90,16 @@ such as ChatGPT and Copilot, in class.
 
 ### Week 3: Narrator
 
-- Selections from *The Rhetoric of Fiction* (1961) by Wayne C. Booth.
-- Selections from *Narratives and Narrators: A Philosophy of Stories* by Gregory Currie.
-- "The Storyteller” by Walter Benjamin.
+- Chapter 1, "Telling and Showing" and Chapter VI, "Types of Narration" from [*The Rhetoric of
+Fiction*][30] (1961) by Wayne C. Booth.
+- Chapter 4, "Authors and Narrators" from [*Narratives and Narrators: A Philosophy of
+Stories*][31] (2010) by Gregory Currie.
+- "[New Wine in Old Bottles? Voice, Focalization, and New Writing" by  Monika Fludernik
+in *New Literary History*, Vol. 32, No. 3, Voice and Human Experience (Summer, 2001), pp. 619-638.
+
+[30]: https://drive.google.com/file/d/1gSwAV-Msl0LrI5Fo3H8-jkZGkWpGWxLj/view?usp=drive_link
+[31]: https://drive.google.com/file/d/1m6RX_C1yY5ELg1347p9_Rru_HVfBwleA/view?usp=drive_link
+[32]: https://www.jstor.org/stable/20057680
 
 ### Week 4: Schema
 

@@ -103,11 +103,17 @@ in *New Literary History*, Vol. 32, No. 3, Voice and Human Experience (Summer, 2
 
 ### Week 4: Schema
 
-- Selections from *The Language And Thought Of The Child* (1923) by Jean Piaget.
-- "Narrative Pre-Construction" by William Labov in *Narrative Inquiry* 16:37-45 (2006).
-- "Bedtime With Shahrazad" in *The Literary Mind* (1996) by Mark Turner.
+- Chapter IV "Some Peculiarities of Verbal Understanding in the Child between the Ages of Nine
+and Eleven" in [*The Language And Thought Of The Child*][41] (1923) by Jean Piaget.
+- The [Introduction][42] to *Scripts, Plans, Goals, and Understanding* (1977) by Roger C.
+Schank, Robert P. Abelson.
+- "Bedtime With Shaharazad" and "Human Meaning" in [*The Literary Mind*][43] (1996) by Mark Turner.
 
 Explore: *The Plot Genie Index* (1934) by Wycliffe A. Hill.
+
+[41]: https://drive.google.com/file/d/12GXfs7i5Hq3a2zsbcPQFgsTgGuz1idCY/view?usp=sharing
+[42]: https://drive.google.com/file/d/189XC91ZyoooFfem7W19WrowtvCmqq-6D/view?usp=sharing
+[43]: https://drive.google.com/file/d/1cAV00k9hsycITK18q2-aVakm_pt0jB5E/view?usp=sharing
 
 ### Week 5: Time
 

@@ -136,7 +136,9 @@ Moment: Time, Narrative, and Computation*][52] (Lincoln: University of Nebraska 
 
 - Selections from *The Syntax of Event Structure* (1995) by James Pustejovsky.
 - Selections from *Acts of Meaning* (1990) by Jerome Bruner.
-- Danto, Arthur C. “Narrative Sentences.” *History and Theory* 2, no. 2 (1962): 146–79.
+- Danto, Arthur C. [“Narrative Sentences.”][73] *History and Theory* 2, no. 2 (1962): 146–79.
+
+[73]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2504460?seq=1
 
 Explore: "Literary Event Detection" in the *Proceedings of the ACL* (2019) by Matthew Sims, Jong Ho Park, and
 David Bamman.

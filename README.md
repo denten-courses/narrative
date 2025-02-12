@@ -117,11 +117,14 @@ Explore: *The Plot Genie Index* (1934) by Wycliffe A. Hill.
 
 ### Week 5: Time
 
-- Selections from *Time and Narrative* by Paul Ricoeur.
-- Selections from Inderjeet Mani, *The Imagined Moment: Time, Narrative, and Computation*
-  (Lincoln: University of Nebraska Press, 2010).
-- Selections from *Narrative Time: Theoretical Reflections and Applications in Digital Media*
-(2004) by Marie-Laure Ryan.
+- Chapter 3, "Games with Time" from [*Time and Narrative II*][51] by Paul Ricoeur.
+- Chapter 1 "Timelines" and Chapter 4 "Calendar Times" from Inderjeet Mani, [*The Imagined
+Moment: Time, Narrative, and Computation*][52] (Lincoln: University of Nebraska Press, 2010).
+- Ryan, Marie-Laure. "[Temporal Paradoxes in Narrative.][53]" *Style* 43, no. 2 (2009): 142–64.
+
+[51]: https://drive.google.com/file/d/1hOyEKVJ7Y2zTFsBmUocdv5dw4oxHpnaA/view?usp=sharing
+[52]: https://drive.google.com/file/d/1zPA--5au6bxM94nTVPqfTayo7oY2T1Ye/view?usp=sharing
+[53]: https://www.jstor.org/stable/10.5325/style.43.2.142
 
 ### Week 6: Space
 

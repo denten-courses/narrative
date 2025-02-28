@@ -150,7 +150,7 @@ Jong Ho Park, and David Bamman.
 [71]: https://academic-oup-com.ezproxy.cul.columbia.edu/book/26335
 [72]: https://drive.google.com/file/d/1myTrhs3wFkfN_WAm8PPfd13d-0pk1UTz/view?usp=sharing
 [73]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2504460
-[74] https://aclanthology.org/P19-1353.pdf
+[74]: https://aclanthology.org/P19-1353.pdf
 
 ### Week 8: Setting
 

@@ -134,7 +134,7 @@ Perspective of Experience*][61] (1977) by Yi-Fu Tuan.
 - “[Toward a Computational Archaeology of Fictional Space][63]” by Dennis Yi Tenen in *New
 Literary History* 49.1 (2018): 119–47.
 
-[61]: https://drive.google.com/file/d/1Ge0xBB2rPemBvhrK8H_NA9dOyAyLTn6O/view?usp=sharing
+[61]: https://drive.google.com/file/d/1ESAxEohMXRAsUGFKRSTh_Ol-3QX0Y8_p/view?usp=sharing
 [62]: https://drive.google.com/file/d/1Ge0xBB2rPemBvhrK8H_NA9dOyAyLTn6O/view?usp=sharing
 [63]: https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D
 
@@ -156,10 +156,12 @@ Jong Ho Park, and David Bamman.
 ### Week 8: Setting
 
 - Selections from *Thought and Language* (1934) by Lev Vygotsky.
-- Selections from *The Country and the City* (1973) by Raymond Williams.
+- Chapters 1-3 from [*The Country and the City*][82] (1973) by Raymond Williams.
 - Selections from *Frame Analysis* (1974) by Erving Goffman.
 
 Optionally: selections from *The Practice of Everyday Life* (1980) by Michel de Certeau.
+
+[82]: https://drive.google.com/file/d/1FekNs9UAJkId0TNj4R7PR_bilWo23a8A/view?usp=sharing
 
 ### Week 9: Action
 
@@ -195,11 +197,10 @@ and Alexandra Georgakopoulou.
 - Selections from *The Constitution of Selves* (1996) by Marya Schechtman.
 - Selections from The *Redemptive Self: Stories Americans Live By* (2006) by Dan P. McAdams.
 
-### Week 14: Story and Discourse
+### Week 14: Body
 
 - "Forms of Time and of the Chronotope in the Novel" in *The Dialogic Imagination* (1981) by Mikhail Bakhtin.
 - Selections from *Story and Discourse: Narrative Structure in Fiction and Film* (1978) by Seymour Chatman.
 - "Story and Discourse in the Analysis of Narrative" by Jonathan Culler in *The Pursuit of
 Signs* (1981).
 - Selections from *Story Logic: Problems and Possibilities of Narrative* by David Herman.
-

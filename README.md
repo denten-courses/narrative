@@ -131,7 +131,8 @@ Moment: Time, Narrative, and Computation*][52] (Lincoln: University of Nebraska 
 - Chapter 1, "The House from Cellar to Garret" in [*The Poetics of Space*][62] (1958) by Gaston Bachelard.
 - Chapter 4, "Body, Personal Relations, and Spatial Values" from [*Space and Place: The
 Perspective of Experience*][61] (1977) by Yi-Fu Tuan.
-- “[Toward a Computational Archaeology of Fictional Space][63].” *New Literary History* 49.1 (2018): 119–47.
+- “[Toward a Computational Archaeology of Fictional Space][63]” by Dennis Yi Tenen in *New
+Literary History* 49.1 (2018): 119–47.
 
 [61]: https://drive.google.com/file/d/1Ge0xBB2rPemBvhrK8H_NA9dOyAyLTn6O/view?usp=sharing
 [62]: https://drive.google.com/file/d/1Ge0xBB2rPemBvhrK8H_NA9dOyAyLTn6O/view?usp=sharing

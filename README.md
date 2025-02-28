@@ -128,9 +128,14 @@ Moment: Time, Narrative, and Computation*][52] (Lincoln: University of Nebraska 
 
 ### Week 6: Space
 
-- "Forms of Time and of the Chronotope in the Novel" in *The Dialogic Imagination* (1981) by Mikhail Bakhtin.
-- Selections from *The Poetics of Space* (1958) by Gaston Bachelard.
-- Selections from *Space and Place: The Perspective of Experience* (1977) by Yi-Fu Tuan.
+- Chapter 1, "The House from Cellar to Garret" in [*The Poetics of Space*][62] (1958) by Gaston Bachelard.
+- Chapter 4, "Body, Personal Relations, and Spatial Values" from [*Space and Place: The
+Perspective of Experience*][61] (1977) by Yi-Fu Tuan.
+- “Toward a Computational Archaeology of Fictional Space.” *New Literary History* 49.1 (2018): 119–47.
+
+[61]: https://drive.google.com/file/d/1Ge0xBB2rPemBvhrK8H_NA9dOyAyLTn6O/view?usp=sharing
+[62]: https://drive.google.com/file/d/1Ge0xBB2rPemBvhrK8H_NA9dOyAyLTn6O/view?usp=sharing
+[63]: https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D
 
 ### Week 7: Event
 
@@ -146,7 +151,6 @@ Jong Ho Park, and David Bamman.
 [72]: https://drive.google.com/file/d/1myTrhs3wFkfN_WAm8PPfd13d-0pk1UTz/view?usp=sharing
 [73]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2504460
 [74] https://aclanthology.org/P19-1353.pdf
-
 
 ### Week 8: Setting
 
@@ -192,6 +196,7 @@ and Alexandra Georgakopoulou.
 
 ### Week 14: Story and Discourse
 
+- "Forms of Time and of the Chronotope in the Novel" in *The Dialogic Imagination* (1981) by Mikhail Bakhtin.
 - Selections from *Story and Discourse: Narrative Structure in Fiction and Film* (1978) by Seymour Chatman.
 - "Story and Discourse in the Analysis of Narrative" by Jonathan Culler in *The Pursuit of
 Signs* (1981).

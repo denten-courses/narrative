@@ -65,6 +65,7 @@ such as ChatGPT and Copilot, in class.
 
 ## Provisional Schedule & Reading List
 
+## Part I: Theory
 ### Week 1: Narrative
 
 - “[An Introduction to the Analysis of Narrative][101]” by Roland Barthes in *New Literary History* 6, 237–72.
@@ -141,7 +142,7 @@ Literary History* 49.1 (2018): 119–47.
 ### Week 7: Event
 
 - Chapter 2 "Story: Events" in Seymore Chatman's [*Story and Discourse*][72] (1978).
-- Chapter 1 "The Importance of Events" and Chapter 4 "Language" in [*Event Cognition*][71] (21014)
+- Chapter 1 "The Importance of Events" and Chapter 4 "Language" in [*Event Cognition*][71] (2014)
 by Gabriel Radvansky and Jeffrey Zacks.
 - Danto, Arthur C. [“Narrative Sentences.”][73] *History and Theory* 2, no. 2 (1962): 146–79.
 
@@ -153,13 +154,24 @@ Jong Ho Park, and David Bamman.
 [73]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2504460
 [74]: https://aclanthology.org/P19-1353.pdf
 
+## Part II: Applied
+
+### Week 8: Persuasion
+
+- Thomas, Timothy L. (2004). "Russia's Reflexive Control Theory and the Military". Journal of
+Slavic Military Studies. 17 (2). Taylor & Francis: 237–256.
+- *Subversion*. Read *Book Proposal [DRAFT]*.
+
+In class: Assign keywords. Partner brainstorming sessions.
+
+
 ### Week 8: Setting
 
 - Selections from *Thought and Language* (1934) by Lev Vygotsky.
 - Chapters 1-3 from [*The Country and the City*][82] (1973) by Raymond Williams.
 - Selections from *Frame Analysis* (1974) by Erving Goffman.
 
-Optionally: selections from *The Practice of Everyday Life* (1980) by Michel de Certeau.
+
 
 [82]: https://drive.google.com/file/d/1FekNs9UAJkId0TNj4R7PR_bilWo23a8A/view?usp=sharing
 

@@ -158,7 +158,7 @@ Jong Ho Park, and David Bamman.
 
 ### Week 8: NARRINT
 
-- Thomas, Timothy L. (2004). "[Russia's Reflexive Control Theory and the Military][81]". Journal of
+- Thomas, Timothy L. (2004). "[Russia's Reflexive Control Theory and the Military][81]." Journal of
 Slavic Military Studies. 17 (2). Taylor & Francis: 237–256.
 - "[Narrative Intelligence: Detecting Chinese and Russian Information Operations to Disrupt NATO Unity][82]"
 - *Subversion*. Read the Book Proposal [DRAFT][83].

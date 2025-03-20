@@ -170,7 +170,11 @@ In class: Assign keywords. Partner brainstorming sessions.
 [82]: https://www.fpri.org/article/2024/11/intelligence-china-russia-information-operations-against-nato/
 [83]: https://drive.google.com/file/d/1b2VCMzsEGXq4qvrtSmMyCfYOkfQWaMFt/view?usp=sharing
 
-### Week 9: Story Worlds
+### Week 9: Medical Case Study
+
+### Week 10: Story Worlds
+
+### Week 11: Memory
 
 
 ## Cuts

@@ -156,24 +156,31 @@ Jong Ho Park, and David Bamman.
 
 ## Part II: Applied
 
-### Week 8: Persuasion
+### Week 8: NARRINT
 
-- Thomas, Timothy L. (2004). "Russia's Reflexive Control Theory and the Military". Journal of
+- Thomas, Timothy L. (2004). "[Russia's Reflexive Control Theory and the Military][81]". Journal of
 Slavic Military Studies. 17 (2). Taylor & Francis: 237–256.
+- "[Narrative Intelligence: Detecting Chinese and Russian Information Operations to Disrupt NATO Unity][82]"
+- https://www.fpri.org/article/2024/11/intelligence-china-russia-information-operations-against-nato/
 - *Subversion*. Read *Book Proposal [DRAFT]*.
 
 In class: Assign keywords. Partner brainstorming sessions.
 
+[81]: https://www-tandfonline-com.ezproxy.cul.columbia.edu/doi/full/10.1080/13518040490450529#d1e121
+[82]: https://www.fpri.org/article/2024/11/intelligence-china-russia-information-operations-against-nato/
+[83]: https://drive.google.com/file/d/1b2VCMzsEGXq4qvrtSmMyCfYOkfQWaMFt/view?usp=sharing
 
+### Week 9: Story Worlds
+
+
+## Cuts
 ### Week 8: Setting
 
 - Selections from *Thought and Language* (1934) by Lev Vygotsky.
 - Chapters 1-3 from [*The Country and the City*][82] (1973) by Raymond Williams.
 - Selections from *Frame Analysis* (1974) by Erving Goffman.
 
-
-
-[82]: https://drive.google.com/file/d/1FekNs9UAJkId0TNj4R7PR_bilWo23a8A/view?usp=sharing
+[]: https://drive.google.com/file/d/1FekNs9UAJkId0TNj4R7PR_bilWo23a8A/view?usp=sharing
 
 ### Week 9: Action
 

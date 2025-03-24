@@ -174,7 +174,12 @@ In class: Assign keywords. Partner brainstorming sessions.
 
 ### Week 10: Story Worlds
 
-### Week 11: Memory
+- "Other Versions of Fairy Tale and Folklore," Chapter 5 in [*Adaptation and
+Appropriation*](1001) by Julie Sanders.
+
+[1001]: https://drive.google.com/file/d/1ZqrGbKk94Jk3ARlEGEUhoJvAlQOKsIaJ/view?usp=sharing
+
+### Week 11: Political Role Playing and other Massive Narrative Events
 
 
 ## Cuts

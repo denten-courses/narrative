@@ -172,14 +172,40 @@ In class: Assign keywords. Partner brainstorming sessions.
 
 ### Week 9: Medical Case Study
 
+- "[Writing Up the Case: Charts and Case Reports][901]," Chapter 5 in Hunter, *Doctors’ Stories: The .
+Narrative Structure of Medical Knowledge* (1991) by Kathryn Montogomery.
+
+Explore (short pieces, find in Clio):
+
+- Berman, Philippa, and Richard Horton. 2015. “[Case Reports in The Lancet: A New
+Narrative][902].” *The Lancet* 385 (9975): 1277.
+- Lurie, J. D., P. D. Gerber, and H. C. Sox. 2000. “Clinical Problem-Solving: A Pain in the
+Back.” *The New England Journal of Medicine* 343 (10): 723–26.
+- Bignall, John, and Richard Horton. 1995. “Learning from Stories—The Lancet’s Case Reports.”
+*The Lancet* 346 (8985): 1246.
+
+
+[901]: https://drive.google.com/file/d/1VHdxD0XEEoOCs4B5wjmMHfsmtzewn3AK/view?usp=sharing
+[902]: https://www-sciencedirect-com.ezproxy.cul.columbia.edu/science/article/pii/S0140673615606420
+
 ### Week 10: Story Worlds
 
 - "Other Versions of Fairy Tale and Folklore," Chapter 5 in [*Adaptation and
-Appropriation*](1001) by Julie Sanders.
+Appropriation*](1001)(2016) by Julie Sanders.
+- Selections from *Complex TV: The Poetics of Contemporary Television Storytelling* (2015) by
+Jason Mittell.
+- Gabriel, Saadia & Bosselut, Antoine & Da, Jeff & Holtzman, Ari & Buys, Jan & Lo, Kyle &
+Celikyilmaz, Asli & Yejin, Choi. (2021). "[Discourse Understanding and Factual Consistency in
+Abstractive Summarization][1003]." 435-447.
+
 
 [1001]: https://drive.google.com/file/d/1ZqrGbKk94Jk3ARlEGEUhoJvAlQOKsIaJ/view?usp=sharing
+[1002]:
+[1003]: https://aclanthology.org/2021.eacl-main.34.pdf
 
 ### Week 11: Political Role Playing and other Massive Narrative Events
+
+### Week 12: 
 
 
 ## Cuts

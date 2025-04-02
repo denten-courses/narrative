@@ -191,17 +191,29 @@ Back.” *The New England Journal of Medicine* 343 (10): 723–26.
 ### Week 10: Story Worlds
 
 - "Other Versions of Fairy Tale and Folklore," Chapter 5 in [*Adaptation and
-Appropriation*](1001)(2016) by Julie Sanders.
-- Selections from *Complex TV: The Poetics of Contemporary Television Storytelling* (2015) by
-Jason Mittell.
-- Gabriel, Saadia & Bosselut, Antoine & Da, Jeff & Holtzman, Ari & Buys, Jan & Lo, Kyle &
+Appropriation*][1001](2016) by Julie Sanders.
+- "[The Constitution of Oral Texts][1005]" in *The Anthropology of Texts, Persons and Publics*
+(2009) by Karin Barber.
+- "[From small stories to networked narrative: The evolution of personal narratives in
+Facebook status updates][1002]" by Ruth Page, Richard Harper, and Maximiliane Frobenius in 
+*Narrative Inquiry*, Volume 23, Issue 1, Jan 2013, p. 192 - 213.
+
+Explore: "[Web-Work Plot Structure][1004]", by Willard E. Hawkins with Harry Stephen Keeler (*The
+Student-Writer*, June-August, 1917).
+
+Explore: Gabriel, Saadia & Bosselut, Antoine & Da, Jeff & Holtzman, Ari & Buys, Jan & Lo, Kyle &
 Celikyilmaz, Asli & Yejin, Choi. (2021). "[Discourse Understanding and Factual Consistency in
 Abstractive Summarization][1003]." 435-447.
 
+Explore: *[Third Person: Authoring and Exploring Vast Narratives][1005]*, edited by Pat Harrigan and
+Noah Wardrip-Fruin (2009)
+
 
 [1001]: https://drive.google.com/file/d/1ZqrGbKk94Jk3ARlEGEUhoJvAlQOKsIaJ/view?usp=sharing
-[1002]:
+[1002]: https://www-jbe-platform-com.ezproxy.cul.columbia.edu/docserver/fulltext/ni.23.1.10pag.pdf?expires=1743574061&id=id&accname=columbia%2F4&checksum=2FFB3DEBFC60CAB502D8721F2D8604BB
 [1003]: https://aclanthology.org/2021.eacl-main.34.pdf
+[1004]: https://drive.google.com/file/d/1eWRdotkFAmpzSSrZ36qsZYsQpmNOvr10/view?usp=sharing
+[1005]: https://drive.google.com/file/d/1d6WDTio2zcRUCC_-hM8JSGzXVwks7ptF/view?usp=sharing
 
 ### Week 11: Political Role Playing and other Massive Narrative Events
 

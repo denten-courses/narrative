@@ -213,7 +213,7 @@ Noah Wardrip-Fruin (2009)
 [1002]: https://www-jbe-platform-com.ezproxy.cul.columbia.edu/docserver/fulltext/ni.23.1.10pag.pdf?expires=1743574061&id=id&accname=columbia%2F4&checksum=2FFB3DEBFC60CAB502D8721F2D8604BB
 [1003]: https://aclanthology.org/2021.eacl-main.34.pdf
 [1004]: https://drive.google.com/file/d/1eWRdotkFAmpzSSrZ36qsZYsQpmNOvr10/view?usp=sharing
-[1005]: https://drive.google.com/file/d/1d6WDTio2zcRUCC_-hM8JSGzXVwks7ptF/view?usp=sharing
+[1005]: https://drive.google.com/file/d/1zkVtWp8NrnLbF0O7T1wffwtlwoHbXqdk/view?usp=sharing
 
 ### Week 11: Political Role Playing and other Massive Narrative Events
 

@@ -215,7 +215,18 @@ Noah Wardrip-Fruin (2009)
 [1004]: https://drive.google.com/file/d/1eWRdotkFAmpzSSrZ36qsZYsQpmNOvr10/view?usp=sharing
 [1005]: https://drive.google.com/file/d/1zkVtWp8NrnLbF0O7T1wffwtlwoHbXqdk/view?usp=sharing
 
-### Week 11: Political Role Playing and other Massive Narrative Events
+### Week 11: Role-playing and Mass Narrative Events
+
+- "[The Narrative Construction of Reality][1101]" by Jerome Brunner in *Critical Inquiry*,
+Autumn 1991.
+- Chapter 3, "Uncovering the Plot" in Mark Fenster's [*Conspiracy Theories*][1102] (2008).
+- Chapter 3, "Collective Fantasy" and Chapter 8, "The Reality of Fantasy" in [*Shared
+Fantasy*][1103]
+by Gary Fine.
+
+[1101]: https://drive.google.com/file/d/1rA4o0ajs8VCWdROj1xs44hnnpyAgT7zw/view?usp=drive_link
+[1102]: https://drive.google.com/file/d/1INEEwZ6fYAfvZIYtMWREyqR5wzkJeyjK/view?usp=drive_link
+[1103]: https://drive.google.com/file/d/1BnfVL3z6YJo2n4yHFqnLrT8EsxMlk6bY/view?usp=drive_link
 
 ### Week 12: 
 

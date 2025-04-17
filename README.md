@@ -172,6 +172,7 @@ In class: Assign keywords. Partner brainstorming sessions.
 
 ### Week 9: Medical Case Study
 
+- “Agency in Illness Narratives” by Lore Arduser in *Narrative Inquiry* 24:1-27.
 - "[Writing Up the Case: Charts and Case Reports][901]," Chapter 5 in Hunter, *Doctors’ Stories: The .
 Narrative Structure of Medical Knowledge* (1991) by Kathryn Montogomery.
 
@@ -197,6 +198,7 @@ Appropriation*][1001](2016) by Julie Sanders.
 - "[From small stories to networked narrative: The evolution of personal narratives in
 Facebook status updates][1002]" by Ruth Page, Richard Harper, and Maximiliane Frobenius in 
 *Narrative Inquiry*, Volume 23, Issue 1, Jan 2013, p. 192 - 213.
+- Selections from *The Art of Failure: An Essay on the Pain of Playing Video Games* (2013) by Jesper Juul.
 
 Explore: "[Web-Work Plot Structure][1004]", by Willard E. Hawkins with Harry Stephen Keeler (*The
 Student-Writer*, June-August, 1917).
@@ -207,7 +209,6 @@ Abstractive Summarization][1003]." 435-447.
 
 Explore: *[Third Person: Authoring and Exploring Vast Narratives][1005]*, edited by Pat Harrigan and
 Noah Wardrip-Fruin (2009)
-
 
 [1001]: https://drive.google.com/file/d/1ZqrGbKk94Jk3ARlEGEUhoJvAlQOKsIaJ/view?usp=sharing
 [1002]: https://www-jbe-platform-com.ezproxy.cul.columbia.edu/docserver/fulltext/ni.23.1.10pag.pdf?expires=1743574061&id=id&accname=columbia%2F4&checksum=2FFB3DEBFC60CAB502D8721F2D8604BB
@@ -228,24 +229,36 @@ by Gary Fine.
 [1102]: https://drive.google.com/file/d/1INEEwZ6fYAfvZIYtMWREyqR5wzkJeyjK/view?usp=drive_link
 [1103]: https://drive.google.com/file/d/1BnfVL3z6YJo2n4yHFqnLrT8EsxMlk6bY/view?usp=drive_link
 
-### Week 12: 
+### Week 12: Office Supplies
 
+- Morgan, Mary S., and Thomas A. Stapleford. “[Narrative in Economics: A New Turn on the Past][1302].” History of Political Economy 55, no. 3 (June 1, 2023): 395–421. https://doi.org/10.1215/00182702-10438855.
+- Rooksby, J., R. M. Gerry, and A. F. Smith. “[Incident Reporting Schemes and the Need for a
+Good Story][1301].” International Journal of Medical Informatics, Information Technology in Health
+Care: Sociotechnical Approaches, 76 (June 1, 2007): S205–11.
+- Boje, David M. “The Storytelling Organization: A Study of Story Performance in an Office-Supply Firm.” Administrative Science Quarterly 36, no. 1 (1991): 106–26. https://doi.org/10.2307/2393432.
+
+[1301]: https://www.sciencedirect.com/science/article/pii/S1386505606001407?casa_token=VWVGeAr5GwIAAAAA:9rejsVzgO8zRIwVWiKuCx6IowdVPB_KtMx3ltZTt0muvtLVS-8vCKfat1zjXK4ogbI88aoow
+[1302]: https://read.dukeupress.edu/hope/article/55/3/395/343490/Narrative-in-Economics-A-New-Turn-on-the-Past
+[1303]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2393432?seq=1
+
+### Week 13: Past and Future
+
+- Selections from *Thought and Language* (1934) by Lev Vygotsky.
+- "Narrative Analysis: Oral Versions of Personal Experience" by William Labov and Joshua Waletzky.
+- Selections from *Frame Analysis* (1974) by Erving Goffman.
+
+In class exercise: Journal review.
 
 ## Cuts
 ### Week 8: Setting
 
-- Selections from *Thought and Language* (1934) by Lev Vygotsky.
 - Chapters 1-3 from [*The Country and the City*][82] (1973) by Raymond Williams.
-- Selections from *Frame Analysis* (1974) by Erving Goffman.
-
-[]: https://drive.google.com/file/d/1FekNs9UAJkId0TNj4R7PR_bilWo23a8A/view?usp=sharing
 
 ### Week 9: Action
 
 -“Action, Action Description, and Narration” by Teun van Dijk in *New Literary History* 6,
 273–94.
 - Selections from *The Poetics of Prose* (1971) by Tzvetan Todorov.
-- Selections from *The Art of Failure: An Essay on the Pain of Playing Video Games* (2013) by Jesper Juul.
 
 ### Week 10: Character
 
@@ -256,7 +269,6 @@ by Gary Fine.
 ### Week 11: Agency
 
 - Selections from *The Illusion of Conscious Will* (2002) by Daniel Wegner.
-- “Agency in Illness Narratives” by Lore Arduser in *Narrative Inquiry* 24:1-27.
 - “Distributed Agency in the Novel” by Dennis Yi Tenen in *New Literary History* 54.1 (2022): 903-937.
 
 ### Week 12: Perspective

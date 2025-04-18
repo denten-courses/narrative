@@ -193,11 +193,14 @@ Back.” *The New England Journal of Medicine* 343 (10): 723–26.
 
 - "Other Versions of Fairy Tale and Folklore," Chapter 5 in [*Adaptation and
 Appropriation*][1001](2016) by Julie Sanders.
+
 - "[The Constitution of Oral Texts][1005]" in *The Anthropology of Texts, Persons and Publics*
 (2009) by Karin Barber.
+
 - "[From small stories to networked narrative: The evolution of personal narratives in
 Facebook status updates][1002]" by Ruth Page, Richard Harper, and Maximiliane Frobenius in 
 *Narrative Inquiry*, Volume 23, Issue 1, Jan 2013, p. 192 - 213.
+
 - Selections from *The Art of Failure: An Essay on the Pain of Playing Video Games* (2013) by Jesper Juul.
 
 Explore: "[Web-Work Plot Structure][1004]", by Willard E. Hawkins with Harry Stephen Keeler (*The
@@ -220,7 +223,9 @@ Noah Wardrip-Fruin (2009)
 
 - "[The Narrative Construction of Reality][1101]" by Jerome Brunner in *Critical Inquiry*,
 Autumn 1991.
+
 - Chapter 3, "Uncovering the Plot" in Mark Fenster's [*Conspiracy Theories*][1102] (2008).
+
 - Chapter 3, "Collective Fantasy" and Chapter 8, "The Reality of Fantasy" in [*Shared
 Fantasy*][1103]
 by Gary Fine.
@@ -232,25 +237,27 @@ by Gary Fine.
 ### Week 12: Office Supplies
 
 - Morgan, Mary S., and Thomas A. Stapleford. “[Narrative in Economics: A New Turn on the
-Past][1302].” *History of Political Economy* 55, no. 3 (June 1, 2023): 395–421.
+Past][1202].” *History of Political Economy* 55, no. 3 (June 1, 2023): 395–421.
 
 - Rooksby, J., R. M. Gerry, and A. F. Smith. “[Incident Reporting Schemes and the Need for a
-Good Story][1301].” *International Journal of Medical Informatics* 76 (June 1, 2007): S205–11.
+Good Story][1201].” *International Journal of Medical Informatics* 76 (June 1, 2007): S205–11.
 
 - Boje, David M. “[The Storytelling Organization: A Study of Story Performance in
-an Office-Supply Firm][1303].” *Administrative Science Quarterly* 36, no. 1 (1991): 106–26.
+an Office-Supply Firm][1203].” *Administrative Science Quarterly* 36, no. 1 (1991): 106–26.
 
-[1301]: https://www.sciencedirect.com/science/article/pii/S1386505606001407?casa_token=VWVGeAr5GwIAAAAA:9rejsVzgO8zRIwVWiKuCx6IowdVPB_KtMx3ltZTt0muvtLVS-8vCKfat1zjXK4ogbI88aoow
-[1302]: https://read.dukeupress.edu/hope/article/55/3/395/343490/Narrative-in-Economics-A-New-Turn-on-the-Past
-[1303]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2393432?seq=1
+[1201]: https://www.sciencedirect.com/science/article/pii/S1386505606001407?casa_token=VWVGeAr5GwIAAAAA:9rejsVzgO8zRIwVWiKuCx6IowdVPB_KtMx3ltZTt0muvtLVS-8vCKfat1zjXK4ogbI88aoow
+[1202]: https://read.dukeupress.edu/hope/article/55/3/395/343490/Narrative-in-Economics-A-New-Turn-on-the-Past
+[1203]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2393432?seq=1
 
 ### Week 13: Past and Future
 
-- Selections from *Thought and Language* (1934) by Lev Vygotsky.
-- "Narrative Analysis: Oral Versions of Personal Experience" by William Labov and Joshua Waletzky.
-- Selections from *Frame Analysis* (1974) by Erving Goffman.
+- "[Narrative Analysis: Oral Versions of Personal Experience][1301]" by William Labov and Joshua Waletzky.
 
 In class exercise: Journal review.
+
+[1301]: https://drive.google.com/file/d/1MUSjkQWbFA7dlHTQZnvJxpPAPVToNR0j/view?usp=sharing
+
+***
 
 ## Cuts
 ### Week 8: Setting

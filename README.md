@@ -237,8 +237,8 @@ Past][1302].” *History of Political Economy* 55, no. 3 (June 1, 2023): 395–4
 - Rooksby, J., R. M. Gerry, and A. F. Smith. “[Incident Reporting Schemes and the Need for a
 Good Story][1301].” *International Journal of Medical Informatics* 76 (June 1, 2007): S205–11.
 
-- Boje, David M. “The Storytelling Organization: A Study of Story Performance in
-an Office-Supply Firm.” *Administrative Science Quarterly* 36, no. 1 (1991): 106–26.
+- Boje, David M. “[The Storytelling Organization: A Study of Story Performance in
+an Office-Supply Firm][1303].” *Administrative Science Quarterly* 36, no. 1 (1991): 106–26.
 
 [1301]: https://www.sciencedirect.com/science/article/pii/S1386505606001407?casa_token=VWVGeAr5GwIAAAAA:9rejsVzgO8zRIwVWiKuCx6IowdVPB_KtMx3ltZTt0muvtLVS-8vCKfat1zjXK4ogbI88aoow
 [1302]: https://read.dukeupress.edu/hope/article/55/3/395/343490/Narrative-in-Economics-A-New-Turn-on-the-Past

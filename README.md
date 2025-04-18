@@ -249,13 +249,15 @@ an Office-Supply Firm][1203].” *Administrative Science Quarterly* 36, no. 1 (1
 [1202]: https://read.dukeupress.edu/hope/article/55/3/395/343490/Narrative-in-Economics-A-New-Turn-on-the-Past
 [1203]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2393432?seq=1
 
-### Week 13: Past and Future
+### Week 13: Experience
 
 - "[Narrative Analysis: Oral Versions of Personal Experience][1301]" by William Labov and Joshua Waletzky.
+- "[The Transformation of Experience in Narrative Syntax][1302]" by William Labov.
 
 In class exercise: Journal review.
 
 [1301]: https://drive.google.com/file/d/1MUSjkQWbFA7dlHTQZnvJxpPAPVToNR0j/view?usp=sharing
+[1302]: https://drive.google.com/file/d/1A5DkkoDN0DO-c8G2yx2nYrtg7nezcgRA/view?usp=sharing
 
 ***
 

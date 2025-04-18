@@ -173,6 +173,7 @@ In class: Assign keywords. Partner brainstorming sessions.
 ### Week 9: Medical Case Study
 
 - “Agency in Illness Narratives” by Lore Arduser in *Narrative Inquiry* 24:1-27.
+
 - "[Writing Up the Case: Charts and Case Reports][901]," Chapter 5 in Hunter, *Doctors’ Stories: The .
 Narrative Structure of Medical Knowledge* (1991) by Kathryn Montogomery.
 
@@ -259,11 +260,16 @@ Studies in Black English Vernacular* (1972), by William Labov.
 - Booth, Tim, and Wendy Booth. “[Sounds of Silence: Narrative Research with
 Inarticulate Subjects][1303].” *Disability & Society* 11, no. 1 (March 1, 1996): 55–70.
 
+- Capps, Lisa, and Elinor and Ochs. “[Out of Place: Narrative Insights into Agoraphobia][1304].”
+*Discourse Processes* 19, no. 3 (May 1, 1995): 407–39.
+
+
 In class exercise: Journal review.
 
 [1301]: https://drive.google.com/file/d/1MUSjkQWbFA7dlHTQZnvJxpPAPVToNR0j/view?usp=sharing
 [1302]: https://drive.google.com/file/d/1A5DkkoDN0DO-c8G2yx2nYrtg7nezcgRA/view?usp=sharing
-[1303]: https://www.tandfonline.com/doi/abs/10.1080/09687599650023326
+[1303]: https://drive.google.com/file/d/1-2Fx0yKd-7Iu_kdePTwflj8XU0vNNXmI/view?usp=sharing
+[1304]: https://drive.google.com/file/d/1zQ8Lk-W2PXfHI5EqmtjStfvG-4NhOOUx/view?usp=sharing
 
 ***
 

@@ -252,12 +252,18 @@ an Office-Supply Firm][1203].” *Administrative Science Quarterly* 36, no. 1 (1
 ### Week 13: Experience
 
 - "[Narrative Analysis: Oral Versions of Personal Experience][1301]" by William Labov and Joshua Waletzky.
-- "[The Transformation of Experience in Narrative Syntax][1302]" by William Labov.
+
+- "[The Transformation of Experience in Narrative Syntax][1302]" in *Language in the Inner City:
+Studies in Black English Vernacular* (1972), by William Labov.
+
+- Booth, Tim, and Wendy Booth. “[Sounds of Silence: Narrative Research with
+Inarticulate Subjects][1303].” *Disability & Society* 11, no. 1 (March 1, 1996): 55–70.
 
 In class exercise: Journal review.
 
 [1301]: https://drive.google.com/file/d/1MUSjkQWbFA7dlHTQZnvJxpPAPVToNR0j/view?usp=sharing
 [1302]: https://drive.google.com/file/d/1A5DkkoDN0DO-c8G2yx2nYrtg7nezcgRA/view?usp=sharing
+[1303]: https://www.tandfonline.com/doi/abs/10.1080/09687599650023326
 
 ***
 
